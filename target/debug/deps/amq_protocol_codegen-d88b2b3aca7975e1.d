@@ -1,0 +1,13 @@
+C:\Semester 4\progjut\Module09\subscriber\target\debug\deps\libamq_protocol_codegen-d88b2b3aca7975e1.rmeta: C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\lib.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\internal.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\named.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\specs.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\templating.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\util.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0/specs/amqp-rabbitmq-0.9.1.json
+
+C:\Semester 4\progjut\Module09\subscriber\target\debug\deps\amq_protocol_codegen-d88b2b3aca7975e1.d: C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\lib.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\internal.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\named.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\specs.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\templating.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\util.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0/specs/amqp-rabbitmq-0.9.1.json
+
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\lib.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\internal.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\named.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\specs.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\templating.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0\src\util.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\amq-protocol-codegen-1.4.0/specs/amqp-rabbitmq-0.9.1.json:
+
+# env-dep:CARGO_MANIFEST_DIR=C:\\Users\\rizki\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\amq-protocol-codegen-1.4.0

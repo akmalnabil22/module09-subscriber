@@ -1,0 +1,13 @@
+C:\Semester 4\progjut\Module09\subscriber\target\debug\deps\liburl-4ef45b006132a3ee.rmeta: C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\lib.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\encoding.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\host.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\origin.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\path_segments.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\parser.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\slicing.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\form_urlencoded.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\quirks.rs
+
+C:\Semester 4\progjut\Module09\subscriber\target\debug\deps\url-4ef45b006132a3ee.d: C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\lib.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\encoding.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\host.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\origin.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\path_segments.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\parser.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\slicing.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\form_urlencoded.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\quirks.rs
+
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\lib.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\encoding.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\host.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\origin.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\path_segments.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\parser.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\slicing.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\form_urlencoded.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-1.7.2\src\quirks.rs:

@@ -1,0 +1,12 @@
+C:\Semester 4\progjut\Module09\subscriber\target\debug\deps\libnet2-99fef0c440abace3.rmeta: C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\lib.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\tcp.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\udp.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\socket.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\ext.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\utils.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\impls.rs
+
+C:\Semester 4\progjut\Module09\subscriber\target\debug\deps\net2-99fef0c440abace3.d: C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\lib.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\tcp.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\udp.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\socket.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\ext.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\utils.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\impls.rs
+
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\lib.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\tcp.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\udp.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\socket.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\ext.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\utils.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\mod.rs:
+C:\Users\rizki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\impls.rs:
